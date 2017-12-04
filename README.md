@@ -1,3 +1,5 @@
 # hello-world
-Just another repository
-This is my first foray into GitHub and idk whats going on.
+Hello out there. 
+
+I am an artist turned designer turned developer jack of some trades. 
+I come from Louisiana and I miss my pet 'gator. 
